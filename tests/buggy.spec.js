@@ -3,7 +3,7 @@ const { test, expect } = require('@playwright/test');
 const url = 'https://buggy.justtestit.org'
 const password = 'Bsgv2003#';
 const newPassword = 'Bsgv2004#'
-const userName = 'br119';
+const userName = 'xasw219';
 
 
 test('Registro de usuario', async ({ page }) => {
